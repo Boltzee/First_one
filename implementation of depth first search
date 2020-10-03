@@ -1,0 +1,12 @@
+#include<iostream>
+#include<vector>
+using namespace std;
+
+int main()
+{
+	vector<int> vec[10];
+	bool visited[10]={false};
+	int n,e;
+	cin>>n>>e;
+	
+}
