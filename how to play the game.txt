@@ -1,6 +1,6 @@
 Initially, the main computer has a hidden integer and the player have to make guesses to find that number. During each guess, the player must provide an integer to the computer to denote his guessed number, and accordingly the computer will tell you whether the gussed number is greator or less than the target number.
 
-HOWEVER, to make things more interesting,the computer can lie sometimes. In particular, it cannot lie two times in a row and lying corresponds to telling that the guessed number is greator when the number is actually less than the target number or vice versa. The computer can choose to lie at any time as long as it follows these rules.
+the HOWEVER, to make things more interesting,the computer can lie sometimes. In particular, it cannot lie two times in a row and lying corresponds to telling that the guessed number is greator when the number is actually less than the target number or vice versa. The computer can choose to lie at any time as long as it follows these rules.
 
 The player who guesses the number first wins the game.
 
