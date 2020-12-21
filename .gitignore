@@ -1,1 +1,4 @@
 *.exe
+basics/*.exe
+basics/*.cpp
+basics/.gitignore
