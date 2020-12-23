@@ -2,3 +2,4 @@
 basics/*.exe
 basics/*.cpp
 basics/.gitignore
+basics
